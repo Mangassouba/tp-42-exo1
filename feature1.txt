@@ -1,0 +1,4 @@
+Création, gestion et fusion de branches
+
+Ceci est un exercice de gestion et fusion de branches.
+pour le faire on doit crée un repertoire et initialiser,  ajouter un fichier et mettre du contenue on valide le changement avec un message de commit puis renommer la brache principale en feature1
