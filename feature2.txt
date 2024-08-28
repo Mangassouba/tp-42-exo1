@@ -1,0 +1,2 @@
+Pour la suite on crée une autre branche appelée feature2, on ajoute un fichier nommer feature2.txt on ajoute du contenu et on valide avec un message de commit.
+on retourne sur la brache feature1 et fusionnez la branche feature2 avec feature1 et géré le conflit
